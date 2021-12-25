@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align='left'>
+<a href="https://twitter.com/ahmetkrgztr"><img height="30" src="https://github.com/ahmetkrgztr/ahmetkrgztr/blob/main/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/ahmet.krgztr"><img height="30" src="https://github.com/ahmetkrgztr/ahmetkrgztr/blob/main/images/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/ahmet-karagoz/"><img height="30" src="https://github.com/ahmetkrgztr/ahmetkrgztr/blob/main/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+</p>
 
-<!--
-**ahmetkrgztr/ahmetkrgztr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Hi! 👋<br>I'm Ahmet Karagöz<br>a AI researcher, software developer and MSc student</h3>
+Currently, I am developing solutions to the problems encountered in radiology units with DL and ML applications. My research areas are;
 
-Here are some ideas to get you started:
+- Clear cell renal cell carcinoma grading via computational imaging called Radiomics, 
+- Prostate cancer detection, classification and segmentation,
+- Ischemia and hemorrhage detection on brain images,
+- New ones are on the way..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a>
+  <a href="https://twitter.com/ahmetkrgztr"><img align="left" src = "https://github-readme-stats.vercel.app/api?username=ahmetkrgztr" />  
+  <a href="https://twitter.com/ahmetkrgztr"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkrgztr" />
+<a/>
+  
+
+
+
+
+
