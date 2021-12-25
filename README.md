@@ -13,8 +13,8 @@ Currently, I am developing solutions to the problems encountered in radiology un
 - New ones are on the way..
 
 <a>
-  <a href="https://twitter.com/ahmetkrgztr"><img align="left" src = "https://github-readme-stats.vercel.app/api?username=ahmetkrgztr" />  
-  <a href="https://twitter.com/ahmetkrgztr"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkrgztr" />
+  <a href="https://github.com/ahmetkrgztr"><img align="left" src = "https://github-readme-stats.vercel.app/api?username=ahmetkrgztr" />  
+  <a href="https://github.com/ahmetkrgztr"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkrgztr" />
 <a/>
   
 
