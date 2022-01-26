@@ -4,7 +4,7 @@
 <a href="https://linkedin.com/in/ahmet-karagoz/"><img height="30" src="https://github.com/ahmetkrgztr/ahmetkrgztr/blob/main/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-<h3>Hi! 👋<br>I'm Ahmet Karagöz<br>a AI researcher, software developer and MSc student</h3>
+<h3>Hi! 👋<br>I'm Ahmet Karagöz<br>an AI researcher, software developer and MSc student</h3>
 Currently, I am developing solutions to the problems encountered in radiology units with DL and ML applications. My research areas are;
 
 - Clear cell renal cell carcinoma grading via computational imaging called Radiomics, 
