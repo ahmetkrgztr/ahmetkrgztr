@@ -16,7 +16,7 @@ Currently, I am developing solutions to the problems encountered in radiology un
   <a href="https://github.com/ahmetkrgztr"><img align="left" src = "https://github-readme-stats.vercel.app/api?username=ahmetkrgztr&include_all_commits=true" />  
   <a href="https://github.com/ahmetkrgztr"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkrgztr" />
 <a/>
-  
+[](https://komarev.com/ghpvc/?username=ahmetkrgztr)
 
 
 
