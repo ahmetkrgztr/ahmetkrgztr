@@ -5,7 +5,7 @@
 <a href="https://github.com/ahmetkrgztr"><img src = "https://komarev.com/ghpvc/?username=ahmetkrgztr" />
 </p>
 
-<h3>Hi! 👋<br>I'm Ahmet Karagöz<br>an AI researcher, software developer and MSc student</h3>
+<h3>Hi! 👋<br>I'm Ahmet Karagöz<br>an AI researcher, software developer and PhD student</h3>
 Currently, I am developing solutions to the problems encountered in radiology units with DL and ML applications. My research areas are;
 
 - Clear cell renal cell carcinoma grading via computational imaging called Radiomics, 
