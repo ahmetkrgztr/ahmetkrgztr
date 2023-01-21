@@ -14,15 +14,10 @@ Currently, I am developing solutions to the problems encountered in radiology un
 - New ones are on the way..
 
 
-
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetkrgztr&count_private=true&show_icons=true&theme=gotham" />  
-<a/>
     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmetkrgztr&theme=gotham)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkrgztr&layout=compact&theme=gotham&hide=html&langs_count=12)](https://github.com/ahmetkrgztr)
-    
+
 
 
 
